@@ -121,7 +121,6 @@ A database-backed Django application where users can create posts, upload media,
 
 The project brings together authentication, permissions, relational data, CRUD operations and asynchronous user interactions.
 
-[![Open live application](https://img.shields.io/badge/OPEN_LIVE_APP-2563EB?style=for-the-badge)](https://crow-social-feed-a61d23c4775f.herokuapp.com/)
 [![View source code](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/boneyphilip/crow)
 
 ---
