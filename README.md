@@ -121,6 +121,7 @@ A database-backed Django application where users can create posts, upload media,
 
 The project brings together authentication, permissions, relational data, CRUD operations and asynchronous user interactions.
 
+[![Open live application](https://img.shields.io/badge/OPEN_LIVE_APP-2563EB?style=for-the-badge)](https://crow-social-feed-a61d23c4775f.herokuapp.com/)
 [![View source code](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/boneyphilip/crow)
 
 ---
@@ -169,7 +170,7 @@ A multi-page website designed for families, children and groups looking for outd
 The site focuses on clear navigation, event information, galleries, calls to action and a mobile-friendly booking journey.
 
 [![Open live website](https://img.shields.io/badge/OPEN_LIVE_WEBSITE-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://boneyphilip.github.io/jungle-quest-club/)
-[![View source code](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boneyphilip/jungle-quest-club)
+[![View source code](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/boneyphilip/jungle-quest-club)
 
 ---
 
